@@ -37,20 +37,20 @@ column=4 is rquired to center the tropheys-->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vanillaSky00&theme=radical&no-frame=true&margin-w=8&margin-h=88&title=Commits,Repositories,Experience,MultiLanguage&column=4" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=vanillaSky00&theme=radical&no-bg=true&no-frame=true&margin-w=8&margin-h=88&title=Commits,Repositories,Experience,MultiLanguage&column=4" alt="trophies"/>
   </a>
 </p>
 
 <!-- Stats row -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vanillaSky00&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=vanillaSky00&theme=tokyonight&hide_border=true" alt="streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vanillaSky00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=vanillaSky00&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/>
 </p>
 
 <!-- Top languages -->
 <p align="center">
   <img height="210"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaSky00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML,Python"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaSky00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML,Python&bg_color=00000000"
      alt="top-langs"/>
   &nbsp;&nbsp; <!-- adds some spacing -->
   <!-- <img src="tired_cat.gif" alt="tired cat" height="160"/>
