@@ -3,7 +3,7 @@
   <img src="https://cataas.com/cat/gif" alt="random-cat" />
 </p>
 
-<h1 align="center">Hi, I'm Harris — vanillaSky00</h1>
+<h1 align="center">Hi, I'm vanillaSky00</h1>
 <h3 align="center">
   Undergraduate · Developer 
 </h3>
