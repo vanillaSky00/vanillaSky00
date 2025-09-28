@@ -49,7 +49,7 @@ no-contrib=true → hide contributions-->
 <!-- Top languages -->
 <p align="center">
   <img height="160"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaSky00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaSky00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML,Python"
      alt="top-langs"/>
 </p>
 
