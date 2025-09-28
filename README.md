@@ -5,13 +5,23 @@
 
 <h1 align="center">Hi, I'm Harris — vanillaSky00</h1>
 <h3 align="center">
-  Undergraduate · Developer ·<br/>
-  ⚡ C ·  Java ·  Vue · Linux · Docker · PostgreSQL<br/>
+  Undergraduate · Developer 
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanillaSky00&label=Profile%20Views&color=FF79BC&style=flat" alt="profile-views" />
-</p>
+<br>
+
+### About Me
+I’m passionate about exploring **blockchain, Zero Trust Architecture (ZTA), cybersecurity, and Spring Boot development**.  
+You’ll often find me digging into technical docs, whitepapers, or running hands-on experiments to see how ideas play out in practice.
+
+Lately, I’ve been diving deeper into the **Spring Framework** and **web application penetration testing**, bringing together secure backend engineering with real-world attack simulations to better understand and improve system defenses.
+
+Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄️  
+Always open to a skate session—feel free to reach out!
+
+<br>
+
+
 
 <!-- Fun line -->
 <p align="center">🐾 Memory is a strange thing. 🐾</p>
@@ -35,11 +45,12 @@
 </p>
 
 
-
 <!-- Tech stack icons (reuse your icon bar) -->
-<h3>Tech I use</h3>
+<!-- <h3>Tech I use</h3> -->
 
-<p align="left">
+<br>
+
+<p align="center">
   <!-- Languages / Frameworks -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -80,3 +91,10 @@
   </a>
 </p>
 
+<br>
+
+  <!--### Creative Tools -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40"/>
+</p>
