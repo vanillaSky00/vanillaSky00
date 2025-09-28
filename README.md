@@ -51,6 +51,8 @@ no-contrib=true → hide contributions-->
   <img height="160"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaSky00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML,Python"
      alt="top-langs"/>
+  &nbsp;&nbsp; <!-- adds some spacing -->
+  <img src="tired_cat.gif" alt="tired cat" height="160"/>
 </p>
 
 
