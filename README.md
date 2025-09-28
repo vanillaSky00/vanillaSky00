@@ -49,14 +49,18 @@ column=4 is rquired to center the tropheys-->
 
 <!-- Top languages -->
 <p align="center">
-  <img height="160"
+  <img height="210"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaSky00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML,Python"
      alt="top-langs"/>
   &nbsp;&nbsp; <!-- adds some spacing -->
-  <img src="tired_cat.gif" alt="tired cat" height="160"/>
-  <img src="sleep_cat.gif" alt="sleep cat" height="160"/>
+  <!-- <img src="tired_cat.gif" alt="tired cat" height="160"/>
+  <img src="sleep_cat.gif" alt="sleep cat" height="160"/> -->
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=pipichun&theme=transparent&animated=true" alt="LeetCode Badges" height="200"/>
 </p>
 
+<!-- <p align="center">
+  <img src="https://leetcard.jacoblin.cool/pipichun?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</p> -->
 
      
 <!-- Tech stack icons (reuse your icon bar) -->
