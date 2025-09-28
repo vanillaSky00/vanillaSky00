@@ -55,7 +55,7 @@ column=4 is rquired to center the tropheys-->
   &nbsp;&nbsp; <!-- adds some spacing -->
   <!-- <img src="tired_cat.gif" alt="tired cat" height="160"/>
   <img src="sleep_cat.gif" alt="sleep cat" height="160"/> -->
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=pipichun&theme=transparent&animated=true" alt="LeetCode Badges" height="200"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=vanillaSky00&theme=transparent&animated=true" alt="LeetCode Badges" height="200"/>
 </p>
 
 <!-- <p align="center">
