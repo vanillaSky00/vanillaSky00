@@ -88,7 +88,7 @@ column=4 is rquired to center the tropheys-->
 <br>
 
   <!--### Creative Tools -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40" height="40"/>
-</p>
+</p> -->
