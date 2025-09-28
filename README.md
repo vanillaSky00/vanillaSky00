@@ -32,11 +32,12 @@ no-fork=true → hide forks
 no-followers=true → hide followers
 no-repo=true → hide repo count
 no-pr=true → hide pull requests
-no-contrib=true → hide contributions-->
+no-contrib=true → hide contributions
+column=4 is rquired to center the tropheys-->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vanillaSky00&theme=radical&no-frame=true&margin-w=8&margin-h=88&title=Commits,Repositories,Experience,MultiLanguage"" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=vanillaSky00&theme=radical&no-frame=true&margin-w=8&margin-h=88&title=Commits,Repositories,Experience,MultiLanguage&column=4" alt="trophies"/>
   </a>
 </p>
 
@@ -53,6 +54,7 @@ no-contrib=true → hide contributions-->
      alt="top-langs"/>
   &nbsp;&nbsp; <!-- adds some spacing -->
   <img src="tired_cat.gif" alt="tired cat" height="160"/>
+  <img src="sleep_cat.gif" alt="sleep cat" height="160"/>
 </p>
 
 
