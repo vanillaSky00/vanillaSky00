@@ -36,9 +36,7 @@ no-contrib=true → hide contributions
 column=4 is rquired to center the tropheys-->
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=vanillaSky00&theme=radical&no-bg=true&no-frame=true&margin-w=8&margin-h=88&title=Commits,Repositories,Experience,MultiLanguage&column=4" alt="trophies"/>
-  </a>
 </p>
 
 <!-- Stats row -->
