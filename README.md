@@ -16,8 +16,7 @@ You’ll often find me digging into technical docs, whitepapers, or running hand
 
 Lately, I’ve been diving deeper into the **Spring Framework** and **web application penetration testing**, bringing together secure backend engineering with real-world attack simulations to better understand and improve system defenses.
 
-Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄️  
-Always open to a skate session—feel free to reach out!
+Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄️  Always open to a skate session—feel free to reach out! ❄️❄️
 
 <br>
 
@@ -26,10 +25,18 @@ Always open to a skate session—feel free to reach out!
 <!-- Fun line -->
 <p align="center">🐾 Memory is a strange thing. 🐾</p>
 
-<!-- Badges / Trophies -->
+<!-- Badges / Trophies 
+no-star=true → hide stars
+no-issue=true → hide issues
+no-fork=true → hide forks
+no-followers=true → hide followers
+no-repo=true → hide repo count
+no-pr=true → hide pull requests
+no-contrib=true → hide contributions-->
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vanillaSky00&theme=radical&no-frame=true&margin-w=8&margin-h=8" alt="trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=vanillaSky00&theme=radical&no-frame=true&margin-w=8&margin-h=8&no-star=true&no-followers=true" alt="trophies"/>
   </a>
 </p>
 
@@ -41,10 +48,13 @@ Always open to a skate session—feel free to reach out!
 
 <!-- Top languages -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaSky00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top-langs"/>
+  <img height="160"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaSky00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML"
+     alt="top-langs"/>
 </p>
 
 
+     
 <!-- Tech stack icons (reuse your icon bar) -->
 <!-- <h3>Tech I use</h3> -->
 
