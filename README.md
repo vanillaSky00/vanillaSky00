@@ -11,8 +11,7 @@
 <br>
 
 ### About Me
-I’m passionate about exploring **blockchain, Zero Trust Architecture (ZTA), cybersecurity, and Spring Boot development**.  
-You’ll often find me digging into technical docs, whitepapers, or running hands-on experiments to see how ideas play out in practice.
+I’m passionate about exploring **blockchain, Zero Trust Architecture (ZTA), cybersecurity, and Spring Boot development**. You’ll often find me digging into technical docs, whitepapers, or running hands-on experiments to see how ideas play out in practice.
 
 Lately, I’ve been diving deeper into the **Spring Framework** and **web application penetration testing**, bringing together secure backend engineering with real-world attack simulations to better understand and improve system defenses.
 
