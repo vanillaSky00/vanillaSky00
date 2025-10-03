@@ -47,7 +47,7 @@ column=4 is rquired to center the tropheys-->
 <!-- Top languages -->
 <p align="center">
   <img height="210"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaSky00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML,Python&bg_color=00000000"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaSky00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML&bg_color=00000000"
      alt="top-langs"/>
   &nbsp;&nbsp; <!-- adds some spacing -->
   <!-- <img src="tired_cat.gif" alt="tired cat" height="160"/>
