@@ -11,9 +11,9 @@
 <br>
 
 ### About Me
-I’m passionate about exploring **blockchain, Zero Trust Architecture (ZTA), cybersecurity, and Spring Boot development**. You’ll often find me digging into technical docs, whitepapers, or running hands-on experiments to see how ideas play out in practice.
+Transitioning from a background in Spring Boot security, ZTA, and penetration testing, I am now fully focused on Autonomous AI Agents.
 
-Lately, I’ve been diving deeper into the **Spring Framework** and **web application penetration testing**, bringing together secure backend engineering with real-world attack simulations to better understand and improve system defenses.
+My current passion is building 'living' agents within interactive game environments. Using LangGraph and React, I design the architecture behind their autonomy—specifically how they handle memory, dynamic behavior, and complex workflow orchestration.
 
 Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄️  Always open to a skate session—feel free to reach out! ❄️❄️
 
@@ -22,7 +22,7 @@ Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄�
 
 
 <!-- Fun line -->
-<p align="center">🐾 Memory is a strange thing. 🐾</p>
+<!-- <p align="center">🐾 Memory is a strange thing. 🐾</p> -->
 
 <!-- Badges / Trophies 
 no-star=true → hide stars
@@ -34,18 +34,18 @@ no-pr=true → hide pull requests
 no-contrib=true → hide contributions
 column=4 is rquired to center the tropheys-->
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=vanillaSky00&theme=radical&no-bg=true&no-frame=true&margin-w=8&margin-h=88&title=Commits,Repositories,Experience,MultiLanguage&column=4" alt="trophies"/>
-</p>
+</p> -->
 
 <!-- Stats row -->
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vanillaSky00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=vanillaSky00&theme=tokyonight&hide_border=true&background=00000000" alt="streak"/>
-</p>
+</p> -->
 
 <!-- Top languages -->
-<p align="center">
+<!-- <p align="center">
   <img height="210"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanillaSky00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,HTML&bg_color=00000000"
      alt="top-langs"/>
@@ -53,8 +53,9 @@ column=4 is rquired to center the tropheys-->
   <!-- <img src="tired_cat.gif" alt="tired cat" height="160"/>
   <img src="sleep_cat.gif" alt="sleep cat" height="160"/> -->
 
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=vanillaSky00&theme=transparent&animated=true" alt="LeetCode Badges" height="200"/>
-</p>
+ <!--  leetcode -->
+ <!--  <img src="https://leetcode-badge-showcase.vercel.app/api?username=vanillaSky00&theme=transparent&animated=true" alt="LeetCode Badges" height="200"/>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://leetcard.jacoblin.cool/pipichun?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
@@ -66,7 +67,7 @@ column=4 is rquired to center the tropheys-->
 
 <br>
 
-<p align="center">
+<p align="left">
   <!-- Languages / Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
