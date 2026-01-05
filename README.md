@@ -18,10 +18,11 @@ My current passion is building 'living' agents within interactive game environme
 Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄️  Always open to a skate session—feel free to reach out! ❄️❄️
 
 
-<p align="left">
-<a href="www.linkedin.com/in/kai-chun-su-5507b4307" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="seckin-yasar/" height="32" width="32" /></a>
+### Social
 
-</p>
+<a href="https://www.linkedin.com/in/kai-chun-su-5507b4307/">
+    <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/120px-LinkedIn_icon_circle.svg.png" height="40" style="vertical-align:middle;" />
+  </a>
 
 <br>
 
