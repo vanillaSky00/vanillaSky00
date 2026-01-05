@@ -15,12 +15,7 @@ Transitioning from a background in Spring Boot security, ZTA, and penetration te
 
 My current passion is building 'living' agents within interactive game environments. Using LangGraph and React, I design the architecture behind their autonomy—specifically how they handle memory, dynamic behavior, and complex workflow orchestration.
 
-Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄️  Always open to a skate session—feel free to reach out! ❄️❄️
-
-
-### Social
-
-<a href="https://www.linkedin.com/in/kai-chun-su-5507b4307/">
+Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄️  Always open to a skate session—feel free to reach out! ❄️❄️ <a href="https://www.linkedin.com/in/kai-chun-su-5507b4307/">
     <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/120px-LinkedIn_icon_circle.svg.png" height="40" style="vertical-align:middle;" />
   </a>
 
