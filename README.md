@@ -15,7 +15,9 @@ Transitioning from a background in Spring Boot security, ZTA, and penetration te
 
 My current passion is building 'living' agents within interactive game environments. Using LangGraph and React, I design the architecture behind their autonomy—specifically how they handle memory, dynamic behavior, and complex workflow orchestration.
 
-Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄️  Always open to a skate session—feel free to reach out! ❄️❄️ <a href="https://www.linkedin.com/in/kai-chun-su-5507b4307/">
+Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄️  Always open to a skate session—feel free to reach out! ❄️❄️ <br>
+
+<a href="https://www.linkedin.com/in/kai-chun-su-5507b4307/">
     <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/120px-LinkedIn_icon_circle.svg.png" height="40" style="vertical-align:middle;" />
   </a>
 
@@ -84,7 +86,7 @@ column=4 is rquired to center the tropheys-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Vue.js" width="40" height="40"/>
 </p>
 
 
