@@ -20,7 +20,9 @@ Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄�
 <br>
 
 <br>
-Checkout artisitc figure skater Yuzuru Hanyu fanpage: <br>
+Checkout artisitc figure skater Yuzuru Hanyu fanpage: 
+<br>
+<br>
 
 <a href="https://vanillasky00.github.io/yuzuru-hanyu-gallery/" target="_blank">
   <img src="https://img.shields.io/badge/Yuzuru%20Hanyu%20Gallery-Fan%20Site-ffb6c1?style=for-the-badge"/>
