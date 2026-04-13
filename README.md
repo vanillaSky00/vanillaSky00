@@ -17,14 +17,25 @@ My current passion is building 'living' agents within interactive game environme
 
 Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄️  Always open to a skate session—feel free to reach out! ❄️❄️ <br>
 
+<br>
+
 <a href="https://www.linkedin.com/in/kai-chun-su-5507b4307/">
     <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/120px-LinkedIn_icon_circle.svg.png" height="40" style="vertical-align:middle;" />
   </a>
 
 <br>
 
+<a href="https://vanillasky00.github.io/yuzuru-hanyu-gallery/" target="_blank">
+  <img src="https://img.shields.io/badge/Yuzuru%20Hanyu%20Gallery-Fan%20Site-ffb6c1?style=for-the-badge"/>
+</a>
 
+<br>
 
+<a href="https://vanillasky00.github.io/vanillaSky/" target="_blank">
+  <img src="https://img.shields.io/badge/VanillaSky-Playground-87ceeb?style=for-the-badge"/>
+</a>
+
+<br>
 <!-- Fun line -->
 <!-- <p align="center">🐾 Memory is a strange thing. 🐾</p> -->
 
@@ -72,6 +83,13 @@ column=4 is rquired to center the tropheys-->
 <br>
 
 <p align="left">
+  <!-- Unity / C# -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+
+  <!-- AWS -->  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"   width="60" height="40"/>
+
   <!-- Languages / Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
