@@ -19,16 +19,14 @@ Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄�
 
 <br>
 
-<a href="https://www.linkedin.com/in/kai-chun-su-5507b4307/">
-    <img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/120px-LinkedIn_icon_circle.svg.png" height="40" style="vertical-align:middle;" />
-  </a>
-
 <br>
+Checkout artisitc figure skater Yuzuru Hanyu fanpage:
 
 <a href="https://vanillasky00.github.io/yuzuru-hanyu-gallery/" target="_blank">
   <img src="https://img.shields.io/badge/Yuzuru%20Hanyu%20Gallery-Fan%20Site-ffb6c1?style=for-the-badge"/>
 </a>
 
+<br>
 <br>
 
 <a href="https://vanillasky00.github.io/vanillaSky/" target="_blank">
