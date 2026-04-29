@@ -1,8 +1,8 @@
 <!-- Header Cat (CATAAS gives a fresh cat every reload) -->
 <p align="center">
-  <img src="https://cataas.com/cat/gif?unique=1" alt="random-cat"  />
-  <img src="https://cataas.com/cat/gif?unique=2" alt="random-cat" />
-  <img src="https://cataas.com/cat/gif?unique=3" alt="random-cat" />
+  <img src="https://cataas.com/cat/gif?unique=1" alt="random-cat" height="160"/>
+  <img src="https://cataas.com/cat/gif?unique=2" alt="random-cat" height="160"/>
+  <img src="https://cataas.com/cat/gif?unique=3" alt="random-cat" height="160"/>
 </p>
 
 <h1 align="center">Hi, I'm vanillaSky00</h1>
