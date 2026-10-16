@@ -13,11 +13,13 @@
 <br>
 
 ### About Me
-Transitioning from a background in Spring Boot security, ZTA, and penetration testing, I am now fully focused on Autonomous AI Agents.
+My path started in security, wandered into HCI, and has landed on the engineering side of AI. These days I look at agent development through a distributed systems lens, build AI infrastructure like data pipelines, and keep finding new ways to bring AI into graphic design and ice skating.
 
-My current passion is building 'living' agents within interactive game environments. Using LangGraph and React, I design the architecture behind their autonomy—specifically how they handle memory, dynamic behavior, and complex workflow orchestration.
+Inspired by Nintendo’s talks on building the world of The Legend of Zelda, I’ve been exploring how “living” agents could make game worlds even more interactive. Beyond the HCI side, what I care about most as an engineer is keeping them reliable over long tasks, and I’m borrowing ideas from distributed systems to get there.
 
-Outside of tech, I’m an avid **inline rollerblader** and **ice skater**. ❄️  Always open to a skate session—feel free to reach out! ❄️❄️ <br>
+I’ve been doing graphic design for four years, mostly in the acid style, and I’ve started thinking about how the systems and agents I build could make my own design workflow more productive.
+
+Outside of tech, I’m an avid inline rollerblader and ice skater ❄️ and I’m exploring how AI can help skaters too, from breaking down moves to making judging fairer. Always up for a skate session or a chat, so feel free to reach out! ❄️❄️ <br>
 
 <br>
 
